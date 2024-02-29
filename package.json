@@ -1,0 +1,27 @@
+{
+  "name": "odd-number-generator",
+  "version": "1.0.1",
+  "description": "A utility to generate odd numbers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/registeracompany/odd-number-generator.git"
+  },
+  "keywords": [
+    "odd-number-generator"
+  ],
+  "author": "registeracompany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/registeracompany/odd-number-generator/issues"
+  },
+  "homepage": "https://github.com/registeracompany/odd-number-generator#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "wutti-calculator": "1.0.1"
+  }
+}
